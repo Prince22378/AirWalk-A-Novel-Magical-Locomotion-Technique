@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b454d4d18a7bb1c418c70830942a20f4
+  productGUID: d7c91a3d11ef28548839c50323b7e4d6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: AirWalk-ControllerBased
+  productName: pRINCEfINAL
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -161,7 +161,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.pRINCEfINAL
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -774,16 +775,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: AirWalk-ControllerBased
-  metroPackageVersion: 
+  metroPackageName: pRINCEfINAL
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: AirWalk-ControllerBased
+  metroApplicationDescription: pRINCEfINAL
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: pRINCEfINAL
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -849,12 +850,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: d637fed5-ea58-486b-aba6-366739d2684c
+  cloudProjectId: c7e661c9-a699-4ae8-9fe2-5a66483f4f66
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AirWalk-ControllerBased
+  projectName: pRINCEfINAL
   organizationId: saumya21351
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
